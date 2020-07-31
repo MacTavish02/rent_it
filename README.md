@@ -1,6 +1,6 @@
 # rent_it
 
-A new Flutter project.
+A hotel booking app with flutter.
 
 ## Getting Started
 
